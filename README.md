@@ -9,9 +9,8 @@
 
 ### 🏥 Building healthcare tech @ Johnson & Johnson · 4+ years · React Native · React.js · Node.js · AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navyarayidi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-rayidi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-portfolio-green.vercel.app/)
 
 </div>
 
